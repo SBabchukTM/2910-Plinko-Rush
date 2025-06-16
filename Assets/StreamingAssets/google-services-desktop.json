@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377969758191",
+    "project_id": "plinko-rush-52daa",
+    "storage_bucket": "plinko-rush-52daa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377969758191:android:1f73daa6f9b4399402301a",
+        "android_client_info": {
+          "package_name": "com.vaultmicro.kid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMgPz8simi7dXyZuqWuzPSZBft700t9IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
