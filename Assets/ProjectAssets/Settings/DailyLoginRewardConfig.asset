@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a9c408f4040b641a82c2d0feef54cd, type: 3}
+  m_Name: DailyLoginRewardConfig
+  m_EditorClassIdentifier: 
+  CoinRewards: 19000000320000004b000000640000007d00000096000000fa000000
+  CollectedRewardSprite: {fileID: 21300000, guid: d63b400a7b26e114e860b560558713de, type: 3}
+  AvailableToCollectRewardSprite: {fileID: 21300000, guid: 7f9de096758fc33499451a11fcf8fc61, type: 3}
+  LockedRewardSprite: {fileID: 21300000, guid: ca45f3f79d0d38d4381221eee3936575, type: 3}
